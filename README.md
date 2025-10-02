@@ -91,8 +91,8 @@ You'll also need accounts for:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/best-saas-kit-v2.git
-cd best-saas-kit-v2
+git clone https://github.com/MrOwaisAbdullah/My-Saas-Kit.git
+cd My-Saas-Kit
 ```
 
 ### 2. Install Dependencies
@@ -640,4 +640,4 @@ If you find this project helpful, please consider:
 
 ---
 
-**Built with ❤️ by the MY SAAS KIT team**
+**Built with ❤️ by Owais Abdullah**
